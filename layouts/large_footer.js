@@ -12,8 +12,8 @@ function Tangles() {
     };
 
     let color = "#764C86";
-    let particleOpacity = 0.95;
-    let particlesNumber = 120;
+    let particleOpacity = 0.75;
+    let particlesNumber = 60;
     let shapeType = "circle";
     let particleSize = 3;
     let linesColor = "#764C86";
@@ -21,7 +21,7 @@ function Tangles() {
     let lineLinked = true;
     let lineOpacity = "0.8";
     let linesDistance = 150;
-    let moveSpeed = 0.3;
+    let moveSpeed = 0.35;
     let hoverEffect = true;
     let hoverMode = "grab";
     let clickEffect = true;
