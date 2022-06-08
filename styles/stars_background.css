@@ -1,0 +1,30 @@
+#tsparticles-background-1{
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  /* top: 50%; */
+}
+#tsparticles-background-2 {
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  top: 20%;
+}
+#tsparticles-background-3 {
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  top: 40%;
+}
+#tsparticles-background-4 {
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  top: 60%;
+}
+#tsparticles-background-5 {
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  top: 80%;
+}
