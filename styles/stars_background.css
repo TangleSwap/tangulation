@@ -4,7 +4,7 @@
   height: 100%;
   /* top: 50%; */
   z-index: -1;
-  background-image: linear-gradient(#000000,#000000, #070009, #0A0011, #070009, #000000, #000000);
+  background-image: linear-gradient(#000000, #000000, #070009,#070009, #070009,#000000, #000000);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
