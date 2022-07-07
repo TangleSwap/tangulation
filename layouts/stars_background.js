@@ -114,14 +114,14 @@ function StarsComponent(id, particleNumber) {
 							},
 						},
 						bubble: {
-							distance: 300,
+							distance: 400,
 							size: 0.001,
 							duration: 3,
 							opacity: 1,
 							speed: 3,
 						},
 						repulse: {
-							distance: 200,
+							distance: 400,
 							duration: 0.4,
 						},
 						push: {
