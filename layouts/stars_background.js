@@ -31,7 +31,7 @@ function StarsComponent(id, particleNumber) {
 						value: particleNumber,
 						density: {
 							enable: true,
-							value_area: 789,
+							value_area: 880,
 						},
 					},
 					color: {
@@ -58,7 +58,7 @@ function StarsComponent(id, particleNumber) {
 						},
 					},
 					size: {
-						value: 2,
+						value: 1.2,
 						random: true,
 						anim: {
 							enable: false,
@@ -114,8 +114,8 @@ function StarsComponent(id, particleNumber) {
 							},
 						},
 						bubble: {
-							distance: 84,
-							size: 1,
+							distance: 300,
+							size: 0.001,
 							duration: 3,
 							opacity: 1,
 							speed: 3,
